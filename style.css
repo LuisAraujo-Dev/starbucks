@@ -12,6 +12,13 @@ body {
     padding: 20px 100px;
 }
 
+.container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 .img-big-starbucks {
     width: 60rem;
 }
