@@ -6,6 +6,7 @@
 
 html {
     font-size: 62.5%;
+    font-family: "Poppins", sans-serif;
 }
 
 body {
@@ -59,4 +60,14 @@ button:hover {
     display: flex;
     justify-content: flex-end;
     margin-top: 25rem;
+}
+
+.menu {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.btn-menu {
+    cursor: pointer;
+    width: 6rem;
 }
