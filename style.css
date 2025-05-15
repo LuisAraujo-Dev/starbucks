@@ -31,6 +31,20 @@ h1 {
 
 span {
     color: #017143;
-    font-size: 70rem;
+    font-size: 7rem;
     font-weight: 900;
+}
+
+p {
+    font-size: 1.6rem;
+}
+
+button {
+    background-color: #017143;
+    color: #ffffff;
+    border-radius: 40px;
+    border: none;
+    padding: 1rem;
+    margin-top: 2rem;
+    cursor: pointer;
 }
