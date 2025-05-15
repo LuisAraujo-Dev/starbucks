@@ -23,6 +23,14 @@ body {
     width: 60rem;
 }
 
-.img-big-starbucks {
-    width: 60rem;
+h1 {
+   color: #333;
+   font-size: 6rem;
+   font-weight: bold;
+}
+
+span {
+    color: #017143;
+    font-size: 70rem;
+    font-weight: 900;
 }
