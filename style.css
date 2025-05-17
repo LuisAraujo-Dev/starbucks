@@ -43,6 +43,14 @@ body {
     width: auto;
 }
 
+.content-img {
+    width: auto;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    position: relative;
+}
+
 h1 {
    color: #333;
    font-size: 6rem;
@@ -72,13 +80,6 @@ button {
 
 button:hover {
     background-color: #00502f
-}
-
-.content-img {
-    width: 60rem;
-    display: flex;
-    justify-content: flex-end;
-    margin-top: 25rem;
 }
 
 .menu {
