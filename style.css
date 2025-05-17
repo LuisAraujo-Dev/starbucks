@@ -51,6 +51,11 @@ body {
     position: relative;
 }
 
+.img-big-starbucks {
+    max-width: 100%;
+    height: auto;
+}
+
 h1 {
    color: #333;
    font-size: 6rem;
