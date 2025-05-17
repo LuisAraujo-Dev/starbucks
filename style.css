@@ -24,6 +24,14 @@ body {
     z-index: -1;
 }
 
+ .logo-starbucks {
+    position: absolute;
+    top: 2rem;
+    left: 10rem;
+    width: auto;
+    height: 8rem;
+}
+
 .content {
     width: 100%;
     display: flex;
