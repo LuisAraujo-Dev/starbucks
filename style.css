@@ -56,6 +56,15 @@ body {
     height: auto;
 }
 
+.menu {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 2rem;
+    left: 10rem;
+    width: auto;
+}
+
 h1 {
    color: #333;
    font-size: 6rem;
@@ -85,11 +94,6 @@ button {
 
 button:hover {
     background-color: #00502f
-}
-
-.menu {
-    display: flex;
-    justify-content: flex-start;
 }
 
 .btn-menu {
