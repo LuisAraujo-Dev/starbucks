@@ -7,10 +7,12 @@
 html {
     font-size: 62.5%;
     font-family: "Poppins", sans-serif;
+    overflow: hidden;
 }
 
 body {
     padding: 0;
+    position: relative;
 }
 
 .circle {
@@ -34,9 +36,9 @@ body {
 
 .content {
     display: flex;
-    align-items: center;
     justify-content: space-between;
     padding: 2rem 10rem;
+    min-height: 60vh;
 }
 
 .content-text {
@@ -97,8 +99,9 @@ button:hover {
 }
 
 .btn-menu {
-    cursor: pointer;
+    margin: 0 1rem;
     width: 6rem;
+    cursor: pointer;
     transition: .5s;
 }
 
